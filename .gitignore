@@ -1,0 +1,17 @@
+
+# Pycharm IDE
+.idea/
+
+# conf file
+.env
+
+# Compile python files
+*.py[cod]
+__pycache__/
+
+#  dir volume db
+db-data/
+
+# test files
+test.http
+tt.py
